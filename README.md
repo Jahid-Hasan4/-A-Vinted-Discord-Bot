@@ -1,6 +1,5 @@
 <h2 align='center'>WebTool</h2>
 Django project 2023 | Python
-✔ Live Demo: <a href='https://webtool-x.up.railway.app/'> Demo</a>
 
 
 <h3 align='center'>Home Pages</h3>
